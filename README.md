@@ -1,5 +1,7 @@
 ### ¡Hola! Soy Henry Mendoza Puerta 👋
 
+Me gusta compartir lo que aprendo, considero que es una excelente forma de seguir aprendiendo y de ayudar a otros. Mis áreas de interés son el desarrollo de software.
+
 <!--
 **gitHAMP/gitHamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
