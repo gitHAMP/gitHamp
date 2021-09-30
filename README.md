@@ -5,8 +5,6 @@
 
 **Me gusta compartir lo que aprendo, considero que es una excelente forma de seguir aprendiendo y de ayudar a otros.**
 
-**Actualmente trabajo como docente de curso de desarrollo web.**
-
 ##
 
 ✔  **Hobbies :**  
