@@ -17,9 +17,9 @@
 ##
 
 <p align="center">
-	<a href="https://github.com/henrymendozapuerta/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/henrymendozapuerta/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
-	<a href="https://www.youtube.com/channel/UCwA02SnUlVMVs8bM0GudPIw"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
+	<a href="https://github.com/henrymendozapuerta/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/henrymendozapuerta/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
+	<a href="https://www.youtube.com/channel/UCwA02SnUlVMVs8bM0GudPIw" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
 </p>
 	
 
