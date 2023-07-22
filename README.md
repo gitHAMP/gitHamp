@@ -3,7 +3,7 @@
 	
 </div>
 
-**Mi nombre es  Henry 
+**
 Bienvenidos a mi GitHub donde comparto contenido sobre desarrollo de software.**
 
 
