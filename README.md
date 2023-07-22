@@ -4,7 +4,7 @@
 </div>
 
 **Mi nombre es  Henry 
-Soy Ingeniero de Computación y Sistemas. Bienvenidos a mi GitHUb donde comparto contenido sobre desarrollo de software.**
+Soy Ingeniero de Computación y Sistemas. Bienvenidos a mi GitHub donde comparto contenido sobre desarrollo de software.**
 
 
 
