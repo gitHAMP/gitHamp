@@ -3,8 +3,7 @@
 	
 </div>
 
-**
-Bienvenidos a mi GitHub donde comparto contenido sobre desarrollo de software.**
+**Bienvenidos a mi GitHub donde comparto contenido sobre desarrollo de software.**
 
 
 
