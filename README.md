@@ -4,7 +4,11 @@
 </div>
 
 **Mi nombre es  Henry 
-Soy Ingeniero de Computación y Sistemas. Actualmente trabajo como docente. Además, creo contenido sobre programación.**
+Soy Ingeniero de Computación y Sistemas. Bienvenidos a mi GitHUb donde comparto contenido sobre desarrollo de software.**
+
+
+
+
 
 ##
 
