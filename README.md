@@ -3,7 +3,8 @@
 	
 </div>
 
-**Codementoring es una plataforma de aprendizaje y colaboración centrada en el desarrollo de proyectos, que conecta a desarrolladores de diferentes niveles para fomentar el aprendizaje colaborativo y mejorar las habilidades técnicas.**
+**Hola 👋🏼 Mi nombre es  Henry 
+Soy Ingeniero de Computación y Sistemas. Actualmente trabajo como docente. Además, creo contenido sobre programación.**
 
 ##
 
