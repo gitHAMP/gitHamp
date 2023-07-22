@@ -3,7 +3,7 @@
 	
 </div>
 
-**Hola 👋🏼 Mi nombre es  Henry 
+**Mi nombre es  Henry 
 Soy Ingeniero de Computación y Sistemas. Actualmente trabajo como docente. Además, creo contenido sobre programación.**
 
 ##
